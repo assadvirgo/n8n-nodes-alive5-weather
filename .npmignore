@@ -1,0 +1,18 @@
+# Source
+nodes/**/*.ts
+credentials/**/*.ts
+*.ts
+!*.d.ts
+
+# Development
+.eslintrc.js
+.prettierrc.js
+tsconfig.json
+.editorconfig
+.nvmrc
+.github
+.git
+
+# Misc
+.DS_Store
+Thumbs.db
